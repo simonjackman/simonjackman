@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @simonjackman
 - 👀 I’m interested in ... learning from data about politics, society and sometimes sports, aviation, climate
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... simonjackman@icloud.com
 
 <!---
